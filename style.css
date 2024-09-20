@@ -151,6 +151,122 @@ header button:hover{
     font-size: 28px;
 }
 
+.valueskiils{
+    background-image: linear-gradient(#ffff,#feffff);
+    height: 700px;
+    width: 100%;
+}
+
+.valueskiils h2{
+    padding: 50px;
+    text-align: center;
+    font-size: 36px;
+    color: #032d60;
+}
+.valueskiils p{
+    text-align: center;
+    font-size: 18px;
+    display: block;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.boxV{
+
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 40px;
+    background-color: #ffffff;
+    height: 470px;
+    width: 350px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.164);
+}
+
+.boxV1header{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.boxV1header img{
+    height: 100px;
+}
+
+.boxV1middlepart{
+    height: 200px;
+}
+
+.boxV1middlepart p,h5{
+    padding-left: 10px;
+    padding-top: 10px;
+    font-size: 16px;
+    text-align: left;
+}
+
+.boxV1footer a{
+    padding: 10px;
+}
+
+.boxV2header{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.boxV2header img{
+    height: 100px;
+}
+
+.boxV2middlepart{
+    height: 200px;
+}
+
+.boxV2middlepart p,h5{
+    padding-left: 10px;
+    padding-top: 10px;
+    font-size: 16px;
+    text-align: left;
+}
+
+.boxV2footer a{
+    padding: 10px;
+}
+
+
+.boxV3header{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.boxV3header img{
+    height: 100px;
+}
+
+.boxV3middlepart{
+    height: 200px;
+}
+
+.boxV3middlepart p,h5{
+    color: #032d60;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-size: 16px;
+    text-align: left;
+}
+
+.boxV3footer a{
+    padding: 10px;
+}
+
 .LAPDOWN{
     width: 100%;
     height: 400px;
